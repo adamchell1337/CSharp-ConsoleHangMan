@@ -1,0 +1,11 @@
+C:\Users\Mark\source\repos\AdamHangMan\AdamHangMan\bin\Debug\netcoreapp3.0\AdamHangMan.exe
+C:\Users\Mark\source\repos\AdamHangMan\AdamHangMan\bin\Debug\netcoreapp3.0\AdamHangMan.deps.json
+C:\Users\Mark\source\repos\AdamHangMan\AdamHangMan\bin\Debug\netcoreapp3.0\AdamHangMan.runtimeconfig.json
+C:\Users\Mark\source\repos\AdamHangMan\AdamHangMan\bin\Debug\netcoreapp3.0\AdamHangMan.runtimeconfig.dev.json
+C:\Users\Mark\source\repos\AdamHangMan\AdamHangMan\bin\Debug\netcoreapp3.0\AdamHangMan.dll
+C:\Users\Mark\source\repos\AdamHangMan\AdamHangMan\bin\Debug\netcoreapp3.0\AdamHangMan.pdb
+C:\Users\Mark\source\repos\AdamHangMan\AdamHangMan\obj\Debug\netcoreapp3.0\AdamHangMan.csprojAssemblyReference.cache
+C:\Users\Mark\source\repos\AdamHangMan\AdamHangMan\obj\Debug\netcoreapp3.0\AdamHangMan.AssemblyInfoInputs.cache
+C:\Users\Mark\source\repos\AdamHangMan\AdamHangMan\obj\Debug\netcoreapp3.0\AdamHangMan.AssemblyInfo.cs
+C:\Users\Mark\source\repos\AdamHangMan\AdamHangMan\obj\Debug\netcoreapp3.0\AdamHangMan.dll
+C:\Users\Mark\source\repos\AdamHangMan\AdamHangMan\obj\Debug\netcoreapp3.0\AdamHangMan.pdb
